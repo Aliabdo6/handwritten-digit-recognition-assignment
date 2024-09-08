@@ -93,7 +93,7 @@ def my_dense_v(A_in, W, b, g):
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/handwritten-digit-recognition-assignment.git
+   git clone https://github.com/Aliabdo6/handwritten-digit-recognition-assignment.git
    ```
 
 2. Install the required dependencies:
