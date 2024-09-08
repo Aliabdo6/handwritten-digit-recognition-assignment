@@ -112,4 +112,4 @@ def my_dense_v(A_in, W, b, g):
 
 ## Acknowledgments
 
-This assignment is part of the **Machine Learning Specialization** by **Stanford University** and **DeepLearning.AI**.
+This assignment is part of the **Machine Learning Specialization** by **Stanford University** and **DeepLearning.AI** .
